@@ -9,8 +9,6 @@ public enum ResponseCode {
 	CODE_LOGIN_TIMEOUT(555),
 	//参数错误
 	CODE_PARAM_ERROR(666),
-	//考试时间不对
-	CODE_EXAM_TIME_ERROR(777),
 	//卖个萌
 	CODE_WTF(0);
 	private int value = 0;
